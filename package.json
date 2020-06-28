@@ -5,6 +5,7 @@
   "dependencies": {
     "@storybook/react": "5.3.19",
     "@types/carbon-components-react": "^7.10.6",
+    "carbon-components-react": "^7.10.6",
     "@types/react-dom": "^16.9.8",
     "carbon-components": "latest",
     "carbon-icons": "latest",
