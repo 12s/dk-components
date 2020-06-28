@@ -4,12 +4,12 @@
   "private": true,
   "dependencies": {
     "@storybook/react": "5.3.19",
+    "@types/carbon-components-react": "^7.10.6",
+    "@types/react-dom": "^16.9.8",
     "carbon-components": "latest",
-    "carbon-components-react": "latest",
     "carbon-icons": "latest",
     "prettier": "2.0.5",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6",
     "react-scripts": "2.1.8",
     "styled-components": "5.1.1",
     "typescript": "^3.9.5"
